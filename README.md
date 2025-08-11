@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Vaishnavi Kanade  
 
 ## 💡 About Me
-- 💻  **IT Engineering Student** passionate about building real-world solutions through technology.  
-- 👨‍💻  Motivated programmer with a strong foundation in multiple languages and web technologies.
-- 🧩  Passionate about problem-solving and continuous learning.
-- 🎯  Focused on building efficient, reliable software and contributing effectively in professional teams.
-
+- 👩‍🎓 IT Engineering Student at Pune Vidhyarthi Griha’s College of Engineering (PVGCOE&SSDIOM), Nashik
+- 💻 passionate about developing real-world solutions using technology.
+- 👨‍💻 Skilled programmer with solid foundations in multiple programming languages and web technologies.
+- 🧩 Strong problem solver committed to continuous learning and growth.
+- 🎯 Dedicated to building efficient, reliable software and collaborating effectively in professional teams.
 
 ## 🚀 Skills
 🖥 HTML | 🎨 CSS | ☕ Java | 🐘 PHP | 🐍 Python (Basic) | 🗄 MySQL | ⚙ C | ➕ C++
