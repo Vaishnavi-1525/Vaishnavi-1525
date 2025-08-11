@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Vaishnavi Kanade  
 
-<!--
-**Vaishnavi-1525/Vaishnavi-1525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+- 💻  IT Engineering Student** passionate about building real-world solutions through technology.  
+- 👨‍💻  Motivated programmer with a strong foundation in multiple languages and web technologies.
+- 🧩  Passionate about problem-solving and continuous learning.
+- 🎯  ocused on building efficient, reliable software and contributing effectively in professional teams.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+🖥 HTML | 🎨 CSS | ☕ Java | 🐘 PHP | 🐍 Python (Basic) | 🗄 MySQL | ⚙ C | ➕ C++
+
+## 📂 Projects  
+
+### ✅ Completed  
+ 
+- **Traffic Congestion Predictor** – C++ console-based predictor using time, location, and weather to estimate traffic levels.  
+- **Alumni Tracking System** – Portal to track and connect with college alumni for networking and mentorship.  
+
+### 🔄 In Progress  
+- **GramLink** – Web and mobile-based portal bridging rural citizens with government schemes and services.
+- 
+## 📬 Get in Touch
+- ✉️ kanadevaishnavi1525@gmail.com
+
+---
