@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Vaishnavi Kanade  
 
 ## 💡 About Me
-- 💻  IT Engineering Student** passionate about building real-world solutions through technology.  
+- 💻  **IT Engineering Student** passionate about building real-world solutions through technology.  
 - 👨‍💻  Motivated programmer with a strong foundation in multiple languages and web technologies.
 - 🧩  Passionate about problem-solving and continuous learning.
 - 🎯  ocused on building efficient, reliable software and contributing effectively in professional teams.
