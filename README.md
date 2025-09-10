@@ -10,16 +10,16 @@
 
 ---
 
-## 🚀 ##  Projects Highlights  
+## 🚀 Projects Highlights  
 
-### 🔹 [Traffic Congestion Predictor](#)  
+### 🔹 [Traffic Congestion Predictor](https://github.com/Vaishnavi-1525/Traffic-Congestion-Predictor)
 - **Tech Stack:** C++  
 - **Description:** Predicts traffic levels based on time and weather inputs.  
 - **Features:** Real-time input, decision-based prediction.  
 - **Status:** Completed  
 
 
-### 🔹 [Alumni Tracking System](#)  
+### 🔹 Alumni Tracking System 
 - **Tech Stack:** Java, PHP, MySQL  
 - **Description:** Platform to connect alumni with students for networking and mentorship.  
 - **Features:** Alumni registration, student access, admin dashboard.  
@@ -27,7 +27,7 @@
 
   
 ### 🔄 In Progress  
-### 🔹 [GramLink (Final Year Project)](#)  
+### 🔹 GramLink (Final Year Project) 
 - **Tech Stack:** Android, Java, Firebase, Web (HTML/CSS/JS, MySQL)  
 - **Description:** Web and mobile-based portal bridging **rural citizens** with **government schemes and services**.  
 - **Features:**  
