@@ -19,8 +19,8 @@
 - **Status:** Completed  
 
 
-### 🔹 Alumni Tracking System 
-- **Tech Stack:** Java, PHP, MySQL  
+### 🔹[ Alumni Tracking System](https://github.com/Vaishnavi-1525/Alumni_Tracking_System) 
+- **Tech Stack:** Java, PHP, MySQL, HTML, CSS 
 - **Description:** Platform to connect alumni with students for networking and mentorship.  
 - **Features:** Alumni registration, student access, admin dashboard.  
 - **Status:** Completed
@@ -44,7 +44,7 @@
 ## 📘 Practice & Learning  
 
 - **[DSA-Java](#)** → A collection of data structures and algorithms implemented in Java.
--
+
 - **[100-Days-Challenge](#)** → Daily Java programming practice (Day 1 – Day 100).  
 
 
