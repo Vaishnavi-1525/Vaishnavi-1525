@@ -25,6 +25,13 @@
 - **Features:** Alumni registration, student access, admin dashboard.  
 - **Status:** Completed
 
+
+### 🔹 [NextStep – Smart Job & Placement Tracker](https://github.com/Vaishnavi-1525/NextStepTracker)
+- **Tech Stack:** React.js (Frontend), Node.js (Backend) 
+- **Description:** Tracks aptitude tests, interviews, and placement drives for students and job seekers.
+- **Features:** Add events, auto-sort by date, mark Completed, view Expired, remaining days display
+- **Status:** Completed
+
   
 ### 🔄 In Progress  
 ### 🔹 GramLink (Final Year Project) 
