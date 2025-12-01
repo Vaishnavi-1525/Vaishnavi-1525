@@ -51,8 +51,8 @@
 ## 📘 Practice & Learning  
 
 - **[DSA-Java](#)** → A collection of data structures and algorithms implemented in Java.
-- 
-- **[100 Days DSA Challenge – Completed 🎉]**(https://github.com/Vaishnavi-1525/100-Days-Challenge) → Daily Java programming practice (Day 1 – Day 100).
+  
+- [100 Days DSA Challenge](https://github.com/Vaishnavi-1525/100-Days-Challenge)– Completed 🎉 → Daily Java programming practice (Day 1 – Day 100).
 
 ---
 
