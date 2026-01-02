@@ -54,16 +54,9 @@
 - #### [DSA-Java](https://github.com/Vaishnavi-1525/DSA-Java) → A collection of data structures and algorithms implemented in Java.
   
 - #### [100 Days DSA Challenge](https://github.com/Vaishnavi-1525/100-Days-Challenge)– Completed 🎉 → Daily Java programming practice (Day 1 – Day 100).
-
+  
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
----
 ## 📬 Get in Touch  
 ✉️ **Email:** kanadevaishnavi1525@gmail.com  
 🌐 **GitHub:** [Vaishnavi-1525](https://github.com/Vaishnavi-1525)  
