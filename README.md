@@ -57,7 +57,13 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme:light )" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
+---
 ## 📬 Get in Touch  
 ✉️ **Email:** kanadevaishnavi1525@gmail.com  
 🌐 **GitHub:** [Vaishnavi-1525](https://github.com/Vaishnavi-1525)  
