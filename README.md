@@ -5,6 +5,24 @@
 - 💻 Aspiring Software Developer | Passionate about Problem-Solving  
 - 🚀 Interested in Web Development | Android | AI  
 
+## 💼 Experience
+#### Quality Assurance Intern @ ESDS Software Solution Limited  
+ - 📅 Feb 2026 – Present  
+ - 📍 Nashik / On-Site  
+
+#### AI Intern (Virtual) – Infosys Springboard Internship 6.0  
+- 📅 Jan 2026 – Present  
+- 🌐 India / Remote  
+
+#### Software Development Intern @ Talent Battle  
+- 📅 Dec 2024 – Jan 2025  
+- 📍 Nashik / On-Site
+
+#### Software Development Intern @ Phoenix Computers  
+- 📅 Jul 2022 – Aug 2022  
+-📍 Nashik / On-Site
+
+
 ## 🚀 Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
