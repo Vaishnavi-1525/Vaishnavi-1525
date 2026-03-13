@@ -64,7 +64,7 @@
   - **Status:** Ongoing (Final Year Project 2025)  
 
 ### 🔄 In Progress  
-### 🔹[ClauseAI – AI Contract Risk Analysis (Infosys Springboard Virtual Internship 6.0)]([https://github.com/Vaishnavi-1525/NextStepTracker](https://github.com/Vaishnavi-1525/ClauseAI-AI-Contract-Risk-Analysis)
+### 🔹[ClauseAI – AI Contract Risk Analysis (Infosys Springboard Virtual Internship 6.0)]([https://github.com/Vaishnavi-1525/NextStepTracker](https://github.com/Vaishnavi-1525/ClauseAI-AI-Contract-Risk-Analysis])
 - **Tech Stack:** Python, LangGraph, LangChain, Pinecone, OpenAI API, Streamlit
 - **Description:** AI-powered system that reads and analyzes legal contracts automatically using a multi-agent architecture.
 - **Features:**
