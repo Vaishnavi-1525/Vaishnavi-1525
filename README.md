@@ -51,7 +51,7 @@
 - **Features:** Add events, auto-sort by date, mark Completed, view Expired, remaining days display
 - **Status:** Completed
 
-  
+
 ### 🔄 In Progress  
 ### 🔹 GramLink (Final Year Project) 
 - **Tech Stack:** Android, Java, Firebase, Web (HTML/CSS/JS, MySQL)  
@@ -63,7 +63,17 @@
   - Notifications & updates for new schemes  
   - **Status:** Ongoing (Final Year Project 2025)  
 
-
+### 🔄 In Progress  
+### 🔹[ClauseAI – AI Contract Risk Analysis (Infosys Springboard Virtual Internship 6.0)]([https://github.com/Vaishnavi-1525/NextStepTracker](https://github.com/Vaishnavi-1525/ClauseAI-AI-Contract-Risk-Analysis)
+- **Tech Stack:** Python, LangGraph, LangChain, Pinecone, OpenAI API, Streamlit
+- **Description:** AI-powered system that reads and analyzes legal contracts automatically using a multi-agent architecture.
+- **Features:**
+  - Upload and analyze contract documents (PDF/DOCX)
+  - Detect key clauses and potential risks
+  - Multi-agent analysis (compliance, finance, operations)
+  - Automated report generation with insights
+  - Status: In Progress (Infosys Springboard Virtual Internship 6.0)
+    
 ---
 
 
