@@ -89,8 +89,9 @@
 ---
 
 ## 📬 Get in Touch  
-- ✉️ **Email:** kanadevaishnavi1525@gmail.com  
-- 💼 **LinkedIn:** [Vaishnavi_Kanade](www.linkedin.com/in/vaishnavi-kanade-b92a08224)
-- 🌐 **GitHub:** [Vaishnavi-1525](https://github.com/Vaishnavi-1525)  
+
+✉️ Email: kanadevaishnavi1525@gmail.com  
+💼 LinkedIn: [Vaishnavi Kanade](https://www.linkedin.com/in/vaishnavi-kanade-b92a08224)  
+🌐 GitHub: [Vaishnavi-1525](https://github.com/Vaishnavi-1525)  
 
 Feel free to connect on GitHub or email me 😊
