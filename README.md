@@ -52,6 +52,19 @@
 - **Status:** Completed
 
 
+
+### 🔹[ClauseAI – AI Contract Risk Analysis (Infosys Springboard Virtual Internship 6.0)](https://github.com/Vaishnavi-1525/ClauseAI-AI-Contract-Risk-Analysis)
+- **Tech Stack:** Python, LangGraph, LangChain, Pinecone, OpenAI API, Streamlit
+- **Description:** AI-powered system that reads and analyzes legal contracts automatically using a multi-agent architecture.
+- **Features:**
+  - Upload and analyze contract documents (PDF/DOCX)
+  - Detect key clauses and potential risks
+  - Multi-agent analysis (compliance, finance, operations)
+  - Automated report generation with insights
+  - Status: Completed (Infosys Springboard Virtual Internship 6.0)
+
+
+
 ### 🔄 In Progress  
 ### 🔹 GramLink (Final Year Project) 
 - **Tech Stack:** Android, Java, Firebase, Web (HTML/CSS/JS, MySQL)  
@@ -63,17 +76,7 @@
   - Notifications & updates for new schemes  
   - **Status:** Ongoing (Final Year Project 2025)  
 
-### 🔄 In Progress  
-### 🔹[ClauseAI – AI Contract Risk Analysis (Infosys Springboard Virtual Internship 6.0)](https://github.com/Vaishnavi-1525/ClauseAI-AI-Contract-Risk-Analysis)
-- **Tech Stack:** Python, LangGraph, LangChain, Pinecone, OpenAI API, Streamlit
-- **Description:** AI-powered system that reads and analyzes legal contracts automatically using a multi-agent architecture.
-- **Features:**
-  - Upload and analyze contract documents (PDF/DOCX)
-  - Detect key clauses and potential risks
-  - Multi-agent analysis (compliance, finance, operations)
-  - Automated report generation with insights
-  - Status: In Progress (Infosys Springboard Virtual Internship 6.0)
-    
+
 ---
 
 
@@ -87,5 +90,7 @@
 
 ## 📬 Get in Touch  
 ✉️ **Email:** kanadevaishnavi1525@gmail.com  
+💼 **LinkedIn:** [Vaishnavi_Kanade](www.linkedin.com/in/vaishnavi-kanade-b92a08224)
 🌐 **GitHub:** [Vaishnavi-1525](https://github.com/Vaishnavi-1525)  
+
 Feel free to connect on GitHub or email me 😊
