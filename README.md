@@ -10,8 +10,8 @@
  - 📅 Feb 2026 – Present  
  - 📍 Nashik / On-Site  
 
-#### AI Intern (Virtual) – Infosys Springboard Internship 6.0  
-- 📅 Jan 2026 – Present  
+#### Data Science Intern (Virtual) – @ Infosys Springboard Internship 6.0  
+- 📅 Feb 2026 – Ape 2026  
 - 🌐 India / Remote  
 
 #### Software Development Intern @ Talent Battle  
@@ -74,7 +74,7 @@
   - Mobile-friendly interface for rural areas  
   - Role-based login (citizen, admin, govt officer)  
   - Notifications & updates for new schemes  
-  - **Status:** Ongoing (Final Year Project 2025)  
+  - Status: Ongoing (Final Year Project 2025)  
 
 
 ---
