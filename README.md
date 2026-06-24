@@ -28,26 +28,12 @@ I build AI-powered systems that solve real problems — from multi-agent RAG pip
 
 ---
 
-### 🚀 Featured Project
-
-#### [ClauseAI — AI Contract Risk Analysis](https://github.com/Vaishnavi-1525/ClauseAI-AI-Contract-Risk-Analysis)
-> Built during Infosys Springboard Virtual Internship 6.0
-
-An AI system that reads and analyzes legal contracts automatically using a **multi-agent architecture** — one of the more advanced RAG systems I've shipped.
-
-- 📄 Upload & analyze contracts (PDF/DOCX)
-- ⚠️ Detects key clauses and flags potential risks
-- 🤖 Specialized agents for compliance, finance, and operations
-- 📊 Auto-generates insight reports
-- **Stack:** Python · LangGraph · LangChain · Pinecone · OpenAI API · Streamlit
-
----
-
-### 🛠️ Other Projects
+### 🛠️ Projects
 
 | Project | Stack | Description |
 |---|---|---|
-| 🏘️ [GramLink](https://github.com/Vaishnavi-1525) *(Final Year Project — Ongoing)* | Android, Java, Firebase, HTML/CSS/JS, MySQL | Web + mobile portal bridging rural citizens with government schemes, role-based access for citizens/admins/officers |
+| 🤖 [ClauseAI – AI Contract Risk Analysis](https://github.com/Vaishnavi-1525/ClauseAI-AI-Contract-Risk-Analysis) | Python, LangGraph, LangChain, Pinecone, OpenAI API, Streamlit | AI system that reads & analyzes legal contracts using a multi-agent architecture (compliance, finance, operations agents), flags risky clauses, and auto-generates reports |
+| 🏘️ [GramLink-AI](https://github.com/Vaishnavi-1525/GramLink-AI) | Android, Java, Firebase, HTML/CSS/JS, MySQL | Web + mobile portal bridging rural citizens with government schemes, role-based access for citizens/admins/officers |
 | 🎯 [NextStep – Smart Job & Placement Tracker](https://github.com/Vaishnavi-1525/NextStepTracker) | React.js, Node.js | Tracks aptitude tests, interviews & placement drives with auto-sorting and deadline tracking |
 | 🎓 [Alumni Tracking System](https://github.com/Vaishnavi-1525/Alumni_Tracking_System) | Java, PHP, MySQL, HTML/CSS | Connects alumni with students for mentorship and networking |
 | 🚦 [Traffic Congestion Predictor](https://github.com/Vaishnavi-1525/Traffic-Congestion-Predictor) | C++ | Predicts traffic levels from time & weather inputs in real time |
@@ -76,12 +62,13 @@ An AI system that reads and analyzes legal contracts automatically using a **mul
 ### 🧰 Tech Stack
 
 **Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-**AI / NLP:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Web & Backend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
+ 
+**AI / NLP:** ![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-8A2BE2?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+ 
+**Web, Mobile & Backend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+ 
 **Cloud & Tools:** ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+ 
 
 ---
 
