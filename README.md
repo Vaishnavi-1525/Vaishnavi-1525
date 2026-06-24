@@ -1,97 +1,122 @@
-# Hi there 👋, I'm Vaishnavi Kanade  
+<h1 align="center">Hi, I'm Vaishnavi Kanade 👋</h1>
+<h3 align="center">Software Developer in the making | RAG • Multi-Agent Systems • NLP</h3>
 
-## 💡 About Me
-- 👩‍🎓 IT Engineering Student at Pune Vidhyarthi Griha’s College of Engineering (PVGCOE&SSDIOM), Nashik
-- 💻 Aspiring Software Developer | Passionate about Problem-Solving  
-- 🚀 Interested in Web Development | Android | AI  
+<p align="center">
+  Final-year IT Engineer @ PVGCOE, Nashik (2026) &nbsp;|&nbsp;
+  QA Intern @ ESDS Software Solutions &nbsp;|&nbsp;
+  Ex-Data Science Intern @ Infosys Springboard &nbsp;|&nbsp;
+  AWS Academy Graduate (Cloud Foundations + Cloud Architecting)
+</p>
 
-## 💼 Experience
-#### Quality Assurance Intern @ ESDS Software Solution Limited  
- - 📅 Feb 2026 – Present  
- - 📍 Nashik / On-Site  
-
-#### Data Science Intern (Virtual) – @ Infosys Springboard Internship 6.0  
-- 📅 Feb 2026 – Ape 2026  
-- 🌐 India / Remote  
-
-#### Software Development Intern @ Talent Battle  
-- 📅 Dec 2024 – Jan 2025  
-- 📍 Nashik / On-Site
-
-#### Software Development Intern @ Phoenix Computers  
-- 📅 Jul 2022 – Aug 2022  
--📍 Nashik / On-Site
-
-
-## 🚀 Skills
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishnavi-kanade-b92a08224"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://vaishnavi-1525.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="mailto:kanadevaishnavi1525@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 🚀 Projects Highlights  
+### 💡 About Me
 
-### 🔹 [Traffic Congestion Predictor](https://github.com/Vaishnavi-1525/Traffic-Congestion-Predictor)
-- **Tech Stack:** C++  
-- **Description:** Predicts traffic levels based on time and weather inputs.  
-- **Features:** Real-time input, decision-based prediction.  
-- **Status:** Completed  
+I build AI-powered systems that solve real problems — from multi-agent RAG pipelines that analyze legal contracts to civic-tech apps connecting rural citizens with government services. Currently sharpening my QA and software-quality instincts at ESDS, after spending the last few months deep in LangChain, LangGraph, and Pinecone building **ClauseAI**.
 
-
-### 🔹[ Alumni Tracking System](https://github.com/Vaishnavi-1525/Alumni_Tracking_System) 
-- **Tech Stack:** Java, PHP, MySQL, HTML, CSS 
-- **Description:** Platform to connect alumni with students for networking and mentorship.  
-- **Features:** Alumni registration, student access, admin dashboard.  
-- **Status:** Completed
-
-
-### 🔹 [NextStep – Smart Job & Placement Tracker](https://github.com/Vaishnavi-1525/NextStepTracker)
-- **Tech Stack:** React.js (Frontend), Node.js (Backend) 
-- **Description:** Tracks aptitude tests, interviews, and placement drives for students and job seekers.
-- **Features:** Add events, auto-sort by date, mark Completed, view Expired, remaining days display
-- **Status:** Completed
-
-
-
-### 🔹[ClauseAI – AI Contract Risk Analysis (Infosys Springboard Virtual Internship 6.0)](https://github.com/Vaishnavi-1525/ClauseAI-AI-Contract-Risk-Analysis)
-- **Tech Stack:** Python, LangGraph, LangChain, Pinecone, OpenAI API, Streamlit
-- **Description:** AI-powered system that reads and analyzes legal contracts automatically using a multi-agent architecture.
-- **Features:**
-  - Upload and analyze contract documents (PDF/DOCX)
-  - Detect key clauses and potential risks
-  - Multi-agent analysis (compliance, finance, operations)
-  - Automated report generation with insights
-  - Status: Completed (Infosys Springboard Virtual Internship 6.0)
-
-
-
-### 🔄 In Progress  
-### 🔹 GramLink (Final Year Project) 
-- **Tech Stack:** Android, Java, Firebase, Web (HTML/CSS/JS, MySQL)  
-- **Description:** Web and mobile-based portal bridging **rural citizens** with **government schemes and services**.  
-- **Features:**  
-  - Easy access to government scheme details  
-  - Mobile-friendly interface for rural areas  
-  - Role-based login (citizen, admin, govt officer)  
-  - Notifications & updates for new schemes  
-  - Status: Ongoing (Final Year Project 2025)  
-
+- 🔭 Currently building **GramLink** — an Android + web platform bridging rural citizens with government schemes
+- 🌱 Currently strengthening QA/testing fundamentals at **ESDS Software Solutions**
+- 🧠 Recently shipped **ClauseAI** — an AI legal-contract risk analyzer using multi-agent architecture
+- ☁️ AWS Certified: Cloud Foundations + Cloud Architecting
+- 🎯 Actively seeking **Software Developer** roles — let's build something reliable and scalable together
 
 ---
 
+### 🚀 Featured Project
 
-## 📘 Practice & Learning  
+#### [ClauseAI — AI Contract Risk Analysis](https://github.com/Vaishnavi-1525/ClauseAI-AI-Contract-Risk-Analysis)
+> Built during Infosys Springboard Virtual Internship 6.0
 
-- #### [DSA-Java](https://github.com/Vaishnavi-1525/DSA-Java) → A collection of data structures and algorithms implemented in Java.
-  
-- #### [100 Days DSA Challenge](https://github.com/Vaishnavi-1525/100-Days-Challenge)– Completed 🎉 → Daily Java programming practice (Day 1 – Day 100).
-  
+An AI system that reads and analyzes legal contracts automatically using a **multi-agent architecture** — one of the more advanced RAG systems I've shipped.
+
+- 📄 Upload & analyze contracts (PDF/DOCX)
+- ⚠️ Detects key clauses and flags potential risks
+- 🤖 Specialized agents for compliance, finance, and operations
+- 📊 Auto-generates insight reports
+- **Stack:** Python · LangGraph · LangChain · Pinecone · OpenAI API · Streamlit
+
 ---
 
-## 📬 Get in Touch  
+### 🛠️ Other Projects
 
-✉️ Email: kanadevaishnavi1525@gmail.com  
-💼 LinkedIn: [Vaishnavi Kanade](https://www.linkedin.com/in/vaishnavi-kanade-b92a08224)  
-🌐 GitHub: [Vaishnavi-1525](https://github.com/Vaishnavi-1525)  
+| Project | Stack | Description |
+|---|---|---|
+| 🏘️ [GramLink](https://github.com/Vaishnavi-1525) *(Final Year Project — Ongoing)* | Android, Java, Firebase, HTML/CSS/JS, MySQL | Web + mobile portal bridging rural citizens with government schemes, role-based access for citizens/admins/officers |
+| 🎯 [NextStep – Smart Job & Placement Tracker](https://github.com/Vaishnavi-1525/NextStepTracker) | React.js, Node.js | Tracks aptitude tests, interviews & placement drives with auto-sorting and deadline tracking |
+| 🎓 [Alumni Tracking System](https://github.com/Vaishnavi-1525/Alumni_Tracking_System) | Java, PHP, MySQL, HTML/CSS | Connects alumni with students for mentorship and networking |
+| 🚦 [Traffic Congestion Predictor](https://github.com/Vaishnavi-1525/Traffic-Congestion-Predictor) | C++ | Predicts traffic levels from time & weather inputs in real time |
 
-Feel free to connect on GitHub or email me 😊
+---
+
+### 📘 Practice & Consistency
+
+- 🧮 [DSA-Java](https://github.com/Vaishnavi-1525/DSA-Java) — Data structures & algorithms implemented in Java
+- 🔥 [100 Days DSA Challenge](https://github.com/Vaishnavi-1525/100-Days-Challenge) — **Completed 🎉** Day 1 → Day 100, daily Java practice
+
+---
+
+### 💼 Experience Timeline
+
+| Role | Organization | Duration |
+|---|---|---|
+| Quality Assurance Intern | ESDS Software Solutions Limited | Feb 2026 – Present |
+| Data Science Intern (Virtual) | Infosys Springboard Internship 6.0 | Jan 2026 – Apr 2026 |
+| Trainee, S.Dot Training Program | ETHNUS | Jun 2025 – Jul 2025 |
+| Software Development Intern | Talent Battle | Dec 2024 – Jan 2025 |
+| Software Development Intern | Phoenix Computers, Nashik | Jul 2022 – Aug 2022 |
+
+---
+
+### 🧰 Tech Stack
+
+**Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+**AI / NLP:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Web & Backend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud & Tools:** ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-1525&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-1525&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-1525&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+</p>
+
+---
+
+### 🎓 Education
+
+- **B.E. in Information Technology** — Pune Vidyarthi Griha's College of Engineering, Nashik (2023 – 2026)
+- **Diploma in Information Technology** — Karmaveer Kakasaheb Wagh Polytechnic, Nashik (2020 – 2023)
+
+### 📜 Certifications
+
+- AWS Academy Graduate – Cloud Foundations
+- AWS Academy Graduate – Cloud Architecting
+- Application of AI/ML Model for Specific Crop Acreage Mapping
+- Talent Battle Internship Certificate
+- Phoenix Internship Certificate
+
+---
+
+<p align="center">
+  📬 Let's connect — <a href="mailto:kanadevaishnavi1525@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/vaishnavi-kanade-b92a08224">LinkedIn</a> ·
+  <a href="https://vaishnavi-1525.github.io/">Portfolio</a>
+</p>
+
+<p align="center"><i>Open to Software Developer roles — always happy to talk RAG, multi-agent systems, or just code 🚀</i></p>
