@@ -18,8 +18,6 @@
 
 ### 💡 About Me
 
-### 💡 About Me
-
 I'm an Information Technology graduate with an interest in software development, AI-powered applications, and backend technologies. I enjoy building practical projects and understanding how software systems work end-to-end.
 
 My experience includes working with Java, Python, SQL, web and mobile development, along with AI technologies such as RAG, LangChain, LangGraph, and Pinecone. I have also gained industry experience in software testing and quality assurance during my internship at ESDS Software Solutions.
