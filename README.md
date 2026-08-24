@@ -2,10 +2,10 @@
 <h3 align="center">Software Developer in the making | RAG • Multi-Agent Systems • NLP</h3>
 
 <p align="center">
-  Final-year IT Engineer @ PVGCOE, Nashik (2026) &nbsp;|&nbsp;
+  B.E. Information Technology Graduate (2026) &nbsp;|&nbsp;
   QA Intern @ ESDS Software Solutions &nbsp;|&nbsp;
   Ex-Data Science Intern @ Infosys Springboard &nbsp;|&nbsp;
-  AWS Academy Graduate (Cloud Foundations + Cloud Architecting)
+  AWS Academy Graduate — Cloud Foundations & Cloud Architecting
 </p>
 
 <p align="center">
@@ -18,13 +18,13 @@
 
 ### 💡 About Me
 
-I build AI-powered systems that solve real problems — from multi-agent RAG pipelines that analyze legal contracts to civic-tech apps connecting rural citizens with government services. Currently sharpening my QA and software-quality instincts at ESDS, after spending the last few months deep in LangChain, LangGraph, and Pinecone building **ClauseAI**.
+### 💡 About Me
 
-- 🔭 Currently building **GramLink** — an Android + web platform bridging rural citizens with government schemes
-- 🌱 Currently strengthening QA/testing fundamentals at **ESDS Software Solutions**
-- 🧠 Recently shipped **ClauseAI** — an AI legal-contract risk analyzer using multi-agent architecture
-- ☁️ AWS Certified: Cloud Foundations + Cloud Architecting
-- 🎯 Actively seeking **Software Developer** roles — let's build something reliable and scalable together
+I'm an Information Technology graduate with an interest in software development, AI-powered applications, and backend technologies. I enjoy building practical projects and understanding how software systems work end-to-end.
+
+My experience includes working with Java, Python, SQL, web and mobile development, along with AI technologies such as RAG, LangChain, LangGraph, and Pinecone. I have also gained industry experience in software testing and quality assurance during my internship at ESDS Software Solutions.
+
+Some of my key projects include **ClauseAI**, a multi-agent AI-based contract risk analyzer, and **GramLink-AI**, a web and Android platform designed to connect rural citizens with government services.
 
 ---
 
@@ -81,21 +81,6 @@ I build AI-powered systems that solve real problems — from multi-agent RAG pip
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-1525&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
 </p>
-
----
-
-### 🎓 Education
-
-- **B.E. in Information Technology** — Pune Vidyarthi Griha's College of Engineering, Nashik (2023 – 2026)
-- **Diploma in Information Technology** — Karmaveer Kakasaheb Wagh Polytechnic, Nashik (2020 – 2023)
-
-### 📜 Certifications
-
-- AWS Academy Graduate – Cloud Foundations
-- AWS Academy Graduate – Cloud Architecting
-- Application of AI/ML Model for Specific Crop Acreage Mapping
-- Talent Battle Internship Certificate
-- Phoenix Internship Certificate
 
 ---
 
