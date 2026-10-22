@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Vaishnavi Kanade – Software Engineer Trainee" />
+<img src="assets/banner.svg" width="100%" alt="Vaishnavi Kanade – Software Engineer" />
 
 <a href="https://github.com/Vaishnavi-1525">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&height=45&lines=Hi%2C+I'm+Vaishnavi+Kanade+%F0%9F%91%8B;Software+Engineer+Trainee+%40+ESDS;Java+%E2%80%A2+Android+%E2%80%A2+Full-Stack+%E2%80%A2+RAG;AWS+Academy+Graduate+%E2%98%81%EF%B8%8F;Building+things+that+work+end+to+end+%F0%9F%9A%80" alt="typing" />
@@ -21,17 +21,17 @@
 
 ```bash
 vaishnavi@github:~$ whoami
-Vaishnavi Kanade — Software Engineer Trainee
+Vaishnavi Kanade — Software Engineer
 
 vaishnavi@github:~$ cat profile.txt
 🎓 B.E. Information Technology Graduate (2026) · PVGCOE Nashik
-💼 Software Engineer Trainee @ ESDS Software Solutions (joining)
+💼 Software Engineer Trainee @ ESDS Software Solutions [Working]
 📊 Ex-Data Science Intern @ Infosys Springboard
-☁️  AWS Academy Graduate — Cloud Foundations & Cloud Architecting
+☁️ AWS Academy Graduate — Cloud Foundations & Cloud Architecting
 🔭 Focus: Full-Stack · Mobile · AI (RAG & Multi-Agent Systems)
 
 vaishnavi@github:~$ status
-🟢 Starting my journey as a Software Engineer Trainee
+🟢 Starting my journey as a Software Engineer
 ```
 
 ---
@@ -40,7 +40,7 @@ vaishnavi@github:~$ status
 
 I'm an Information Technology graduate with an interest in software development, AI-powered applications, and backend technologies. I enjoy building practical projects and understanding how software systems work end-to-end.
 
-My experience includes working with **Java, C++ and SQL**, web and mobile development, along with AI technologies such as **RAG, LangChain, LangGraph, and Pinecone**. I gained industry experience during my internship at ESDS Software Solutions and I'm now stepping into a **Software Engineer Trainee** role.
+My experience includes working with **Java, C++ and SQL**, web and mobile development, along with AI technologies such as **RAG, LangChain, LangGraph, and Pinecone**. I gained industry experience during my internship at ESDS Software Solutions and I'm now stepping into a **Software Engineer** role.
 
 Some of my key projects include **ClauseAI**, a multi-agent AI-based contract risk analyzer, and **GramLink-AI**, a web and Android platform designed to connect rural citizens with government services.
 
@@ -232,18 +232,18 @@ timeline
     2024 : Software Development Intern @ Talent Battle
     2025 : Trainee, S.Dot Training Program @ ETHNUS
     2026 : Data Science Intern @ Infosys Springboard 6.0
-         : Software Engineer Trainee @ ESDS Software Solutions
+         : Software Engineer @ ESDS Software Solutions
 ```
 
 > 👇 Click a role to see its details.
 
 <details open>
-<summary><b>🚀 Software Engineer Trainee</b> — ESDS Software Solutions Limited <code>2026 · Joining</code></summary>
+<summary><b>🚀 Software Engineer</b> — ESDS Software Solutions Limited <code>2026 · Working</code></summary>
 <br/>
 
 - 🏢 **Organization:** ESDS Software Solutions Limited, Nashik
 - 📅 **Duration:** 2026 – Present
-- 🎯 **Role:** Software Engineer Trainee
+- 🎯 **Role:** Software Engineer
 
 </details>
 
@@ -342,7 +342,7 @@ timeline
 
 [Email](mailto:vaishnavikanade1525@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vaishnavi-kanade-b92a08224) · [Portfolio](https://vaishnavi-1525.github.io/)
 
-*Excited to build, learn and ship — always happy to talk Java, Android, full-stack or AI* 🚀
+*Excited to build, learn and ship — always happy to talk Java, Android, full-stack or AI — Open to Software Developer roles* 🚀
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="footer"/>
 
