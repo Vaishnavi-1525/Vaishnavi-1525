@@ -37,7 +37,7 @@
     <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
   </text>
   <text x="62" y="158" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#c9d1d9">
-    Software Engineer Trainee
+    Software Engineer
     <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="1.2s" fill="freeze"/>
   </text>
 
@@ -49,7 +49,7 @@
     <text x="62" y="208" opacity="0">&gt; B.E. Information Technology (2026)
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.38;0.63;0.68;1" dur="12s" repeatCount="indefinite"/>
     </text>
-    <text x="62" y="208" opacity="0">&gt; Joining ESDS Software Solutions
+    <text x="62" y="208" opacity="0">&gt; ESDS Software Solutions
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.71;0.95;1" dur="12s" repeatCount="indefinite"/>
     </text>
   </g>
@@ -58,8 +58,8 @@
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6edf3">
     <rect x="60" y="238" width="62" height="28" rx="14" fill="#ffffff" fill-opacity="0.1"/><text x="76" y="257">Java</text>
     <rect x="132" y="238" width="56" height="28" rx="14" fill="#ffffff" fill-opacity="0.1"/><text x="148" y="257">C++</text>
-    <rect x="198" y="238" width="66" height="28" rx="14" fill="#ffffff" fill-opacity="0.1"/><text x="214" y="257">React</text>
-    <rect x="274" y="238" width="84" height="28" rx="14" fill="#ffffff" fill-opacity="0.1"/><text x="290" y="257">Node.js</text>
+    <rect x="198" y="238" width="66" height="28" rx="14" fill="#ffffff" fill-opacity="0.1"/><text x="214" y="257">MYSQL</text>
+    <rect x="274" y="238" width="84" height="28" rx="14" fill="#ffffff" fill-opacity="0.1"/><text x="290" y="257">DSA</text>
     <rect x="368" y="238" width="86" height="28" rx="14" fill="#ffffff" fill-opacity="0.1"/><text x="384" y="257">Android</text>
     <rect x="464" y="238" width="56" height="28" rx="14" fill="#ffffff" fill-opacity="0.1"/><text x="480" y="257">AWS</text>
   </g>
@@ -78,11 +78,11 @@
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
     <rect x="730" y="62" width="120" height="68" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#36bcf7" stroke-width="1.5"/>
     <text x="790" y="92" font-size="15" font-weight="700" fill="#7ee7ff">Client</text>
-    <text x="790" y="113" font-size="11" fill="#c9d1d9">React · Android</text>
+    <text x="790" y="113" font-size="11" fill="#c9d1d9">DSA · Android</text>
 
     <rect x="880" y="62" width="120" height="68" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#b79cff" stroke-width="1.5"/>
     <text x="940" y="92" font-size="15" font-weight="700" fill="#b79cff">Server</text>
-    <text x="940" y="113" font-size="11" fill="#c9d1d9">Java · Node · PHP</text>
+    <text x="940" y="113" font-size="11" fill="#c9d1d9">Java · C++ · PHP</text>
 
     <rect x="1030" y="62" width="120" height="68" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#7ee787" stroke-width="1.5"/>
     <text x="1090" y="92" font-size="15" font-weight="700" fill="#7ee787">Database</text>
